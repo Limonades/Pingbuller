@@ -1,0 +1,770 @@
+
+
+@media (max-width: 1026px) {
+	.container {
+		width: 768px;
+		margin: 0 auto;
+	}
+
+	.nav__top {
+		float: left;
+		margin-top: 26px;
+		margin-left: 13px;
+	}
+
+	.nav__element:first-child {
+		margin-left: 0;
+	}
+
+	.header__content__top--link {
+		margin-left: 20px;
+	}
+
+	.slider { 	
+	    margin-top: 130px;
+	}
+
+    .slider__content--h1 {
+	    font-size: 3rem;
+	    padding-top: 91px;
+	    margin-left: 43px;
+	    font-weight: 100;
+	    letter-spacing: 0;
+	}
+
+	.slider__content--h2 {
+	    font-size: 1.5rem;
+	    margin-top: 0px;
+	    margin-left: 45px;
+	}
+
+	.slider__content--p {
+	    display: inline-block;
+	    height: 108px;
+	    overflow: hidden;
+	    margin-left: 43px;
+	    padding-top: 6px;
+	    width: 36%;
+	    font-size: 1rem;
+	    line-height: 26px;
+	}
+
+	.slider__content__img--iphone-1 {
+	    right: 24%;
+	}
+
+	.slider__content__img--iphone-2 {
+	    top: -9%;
+	    right: 6%;
+	}
+
+	.slider__content__player-play {
+	    top: 43%;
+	}
+
+	.buttons__label {
+	    margin-right: 9px;
+	    margin-top: 38px;
+	}
+
+	.buttons__radio-buttons {
+		margin-right: 131px;
+	}
+
+	header {
+    	height: 798px;
+	}
+
+	.about__article__h {
+		font-size: 1.5rem;
+	}
+
+	.about__article__column-1 {
+	    float: left;
+	    width: 76%;
+	    margin-left: 22px;
+	}
+
+	.about__article__column-2 {
+	    float: left;
+	    width: 76%;
+	    margin-left: 22px;
+	}
+
+	.about__article__column-3 {
+	    float: left;
+	    width: 76%;
+	    margin-left: 22px;
+	}
+
+	.about__article {
+		margin-left: 28px;
+		width: 26.3%;
+	}
+
+	.about__article__sprite-1 {
+    	margin-left: 0;
+	}
+
+	.about__article__sprite-2 {
+    	margin-left: 0;
+	}
+
+	.about__article__sprite-3 {
+    	margin-left: 0;
+	}
+
+	.aa1 {
+		margin-left: 40px;
+	}
+
+	.aa2 {
+		margin-left: 50px;
+	}
+
+	.aa3 {
+		margin-left: 60px;
+	}
+
+	.about__article__p {
+		height: 145px;
+    	overflow: hidden;
+	}
+
+	.about__article__a {
+		margin-top: 2%;
+    	margin-right: 3%;
+	}
+
+	.main__updates__start {
+		width: 41%;
+		margin-left: 6%;
+	}
+
+	.main__updates__h-pingbuller {
+		margin-left: 36px;
+	    margin-top: -44px;
+	    font-size: 1.5rem;
+	    width: 30%;
+	    line-height: 25px;
+	}
+
+	.main__updates__p {
+		margin-left: 36px;
+		margin-right: 24px;
+		padding-top: 8px;
+		overflow: hidden;
+		height: 57%;
+	}
+
+	.main__updates__updates {
+		width: 50%;
+		margin-top: 104px;
+		margin-left: 19px;
+	}
+
+	.main__updates__info {
+		float: none;
+	}
+
+	.main__updates__info--news-1 {
+		width: 70%;
+		height: 22px;
+		overflow: hidden;
+	}
+
+	.main__updates__info--news-2 {
+		width: 70%;
+		height: 22px;
+		overflow: hidden;
+	}
+
+	.main__updates__info--news-3 {
+		width: 70%;
+		height: 22px;
+		overflow: hidden;
+	}
+
+	.main__updates__updates--read {
+		display: none;
+	}
+
+	.main__updates__updates--more {
+		display: inline-block;
+		margin-right: 19px;
+	}
+
+	.bottom_slider__block {
+		margin-left: 160px;
+		padding-top: 5px;
+	}
+
+	.partners__link {
+		margin: 0 26px;
+		margin-top: 24px;
+		margin-bottom: 30px;
+	}
+
+	.info__article__column-1 {
+		display: none;
+	}
+
+	.info__article__column-2 {
+		display: none;
+	}
+
+	.info__article__column-3 {
+		width: 83%;
+	}
+
+	.column-1--hidden {
+		display: inline-block;
+		width: 83%;
+	}
+
+	.column-2--hidden {
+		display: inline-block;
+		width: 83%;
+	}
+
+	.info__article__h {
+		font-size: 1.5rem;
+	}
+
+	.info__article__p {
+		height: 170px;
+		overflow: hidden;
+	}
+
+	footer {
+		height: 200px;
+	}
+
+	.footer__designed {
+		margin-top: 100px;
+	}
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 787px) {
+	.container {
+		max-width: 480px;
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	.header__content__top--link {
+		margin-left: 34%;
+	}
+
+	.header__content__top {
+		position: relative;
+	}
+
+	.nav__top {
+		position: absolute;
+	    bottom: -18%;
+	    left: 21%;
+	    z-index: 9;
+	}
+
+	.nav__element {
+		display: none;
+		margin: 0;
+		text-align: center;
+		width: 245px;
+
+	}
+
+	.nav__element:first-child {
+		display: block;
+		border: none;
+	}
+
+	.nav__element:first-child .nav__link{
+		padding-right: 3px;
+		padding-left: 3px;
+		padding-bottom: 3px;
+		margin-bottom: 3px;
+		border-bottom: 2px solid #edbfff;
+		display: inline-block;
+	}
+
+
+	.nav__link {
+		padding: 6px 0;
+		display: block;
+		border-bottom: 2px solid transparent;
+	}
+
+	.nav__top .nav__menu:hover .nav__element{
+		display: block;
+	}
+
+	.nav__menu:hover {
+		box-sizing: border-box;
+		border-radius: 10px;
+		background: rgba(60, 47, 67, 0.9);
+		border: 1px solid #0f1a20;
+		overflow: hidden;
+	}
+
+	.nav__element:hover {
+		background: rgba(43, 35, 50, 0.7);
+	}
+
+	.nav__element {
+		border-bottom: 1px solid #36283f;
+		border-top: 1px solid #503e58;
+	}
+
+	.nav__menu {
+		position: absolute;
+		top: 20%;
+		padding-left: 20%;
+	}
+
+	.slider {
+		margin-top: 89px;
+	}
+
+	.slider__content__img--iphone-2 {
+		top: -6%;
+    	right: 7%;
+   		height: 200%;
+	}
+
+	.slider__content__img--iphone-1 {
+		right: 28%;
+	    top: 32%;
+	    height: 123%;
+	}
+
+	.slider__content__player-play {
+		top: 65%;
+	    right: 16%;
+	    height: 32%;
+	}
+
+	.slider__content--h1 {
+		font-size: 2.2rem;
+	    padding-top: 88px;
+	    margin-left: 40px;
+	}
+
+	.slider__content--h2 {
+		font-size: 1rem;
+    	margin-left: 39px;
+	}
+
+	.slider__content--p {
+		display: none;
+	}
+
+	.slider {
+		height: 247px;
+	}
+
+	.buttons__radio-buttons {
+		margin-right: 189px;
+	}
+
+	.buttons__label {
+		margin-right: 7px;
+		margin-top: 22px;
+	}
+
+	header {
+		height: 548px;
+	}
+
+	.about__article {
+		width: 100%;
+		margin-left: 0;
+	}
+
+	.about__article__column-1 {
+		margin-left: 7px;
+		width: 78%;
+	}
+
+	.about__article__column-2 {
+		margin-left: 7px;
+	}
+
+	.about__article__column-3 {
+		margin-left: 7px;
+		width: 78%;
+	}
+
+	.about__article__h {
+		padding-bottom: 0;
+	}
+
+	.about__article__p {
+		height: 100%;
+	}
+
+	.about__article__a {
+		margin-top: 4%;
+		margin-right: 1%;
+	}
+
+	.about {
+		height: 600px;
+	}
+
+	.about__article__sprite-1 {
+		margin-left: 6%;
+	}
+
+	.about__article__sprite-2 {
+		margin-left: 6%;
+	}
+
+	.about__article__sprite-3 {
+		margin-left: 6%;
+	}
+
+	.aa2 {
+		margin-top: 20px;
+	}
+
+	.aa3 {
+		margin-top: 20px;
+	}
+
+	.main__updates__start {
+		width: 88%;
+		margin-left: 9%;
+		margin-top: 70px;
+	}
+
+	.main__updates__h-pingbuller {
+		margin-top: -47px;
+		font-size: 1.9rem;
+		line-height: 37px;
+		width: 100%;
+	}
+
+	.main__updates__p {
+		height: 100%;
+	}
+
+	.main__updates {
+		position: relative;
+		height: 787px;
+	}
+
+	.bottom_slider__block {
+		position: absolute;
+		top: 46%;
+		left: 9%;
+	}
+
+	.main__updates__updates {
+		width: 82%;
+		margin-top: 13%;
+		margin-left: 10%;
+	}
+
+	.partners {
+		height: 230px;
+		width: 97%;
+	}
+
+	main {
+		height: 1690px;
+	}
+
+	.info {
+		height: 672px;
+	}
+
+	.info__article {
+		width: 112%;
+	}
+
+	.info__article__p {
+		height: 98px;
+	}
+
+	.column-1--hidden {
+		margin-left: 23px;
+		margin-top: 0px;
+	}
+
+	.column-2--hidden {
+		margin-left: 23px;
+		margin-top: 0px;		
+	}
+
+	.info__article__column-3 {
+		margin-left: 23px;
+		margin-top: 0px;	
+	}
+
+	.footer__designed {
+		margin-top: 35px;
+		float: none;
+		text-align: center;
+	}
+
+	.footer__menu {
+		float: none;
+	}
+
+	.footer__menu__element {
+		margin-left: 9px;
+		margin-right: 9px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 479px) {
+	.container {
+		max-width: 320px;
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	.header__content__top--link {
+		margin-left: 26%;
+	}
+
+	.nav__top {
+		bottom: -19%;
+		left: 8%;
+	}
+
+	.slider__content__img--iphone-1 {
+		display: none;
+	}
+
+	.slider__content__img--iphone-2 {
+		display: none;
+	}
+
+	.slider__content__player {
+		display: none;
+	}
+
+	.slider__content--h1 {
+		margin-left: 0;
+		text-align: center;
+	}
+
+	.slider__content--h2 {
+		margin-left: 0;
+		text-align: center;
+	}
+
+	.slider {
+		background: none;
+		height: 200px;
+	}
+
+	.buttons__radio-buttons {
+		margin-right: 107px;
+	}
+
+	.buttons__label {
+		background: #6a6570;
+	}
+
+	header {
+		height: 516px;
+	}
+
+	.about__article__sprite-1 {
+		margin-left: 9%;
+		padding-top: 6px;
+	}
+
+	.about__article__sprite-2 {
+		margin-left: 9%;
+		padding-top: 6px;
+	}
+
+	.about__article__sprite-3 {
+		margin-left: 9%;
+		padding-top: 6px;
+	}
+
+	.about__article__column-1 {
+		margin-left: 22px;
+		width: 70%;
+	}
+
+	.about__article__column-2 {
+		margin-left: 22px;
+		width: 70%;
+	}
+
+	.about__article__column-3 {
+		margin-left: 22px;
+		width: 70%;
+	}
+
+	.about__article__p {
+		height: 67px;
+	}
+
+	.about__article {
+		margin-top: 67px;
+	}
+
+	.about__article__a {
+		margin-top: 9%;
+		margin-right: 0%;
+	}
+
+	.aa2 {
+		margin-top: 20px;
+	}
+
+	.aa3 {
+		margin-top: 36px;
+	}
+
+	.main__updates__start {
+		margin-left: 14%;
+		width: 84%;
+	}
+
+	.main__updates__h-pingbuller {
+		font-size: 1.5rem;
+		line-height: 24px;
+		width: 50%;
+		margin-left: 32px;
+	}
+
+	.main__updates__p {
+		height: 66%;
+		width: 70%;
+	}
+
+	.bottom_slider__block {
+		margin-left: 111px;
+	}
+
+	.main__updates__updates {
+		margin-top: 21%;
+		margin-left: 0;
+		width: 100%;
+	}
+
+	.main__updates__h-updates {
+		margin-left: 15px;
+		font-weight: 100;
+	}
+
+	.main__updates__img {
+		margin-left: 16px;
+	}
+
+	.main__updates__info--theme-1 {
+		width: 52%;
+		height: 25px;
+		overflow: hidden;
+	}
+
+	.main__updates__info--theme-2 {
+		margin-top: 16px;
+		width: 52%;
+		height: 25px;
+		overflow: hidden;
+	}
+
+	.main__updates__info--theme-3 {
+		margin-top: 24px;
+		width: 52%;
+		height: 25px;
+		overflow: hidden;
+	}
+
+	.main__updates__info--news-1 {
+		width: 72%;
+	}
+
+	.main__updates__info--news-2 {
+		width: 72%;
+	}
+
+	.main__updates__info--news-3 {
+		width: 72%;
+	}
+
+	.main__updates__updates--more {
+		margin-right: 12px;
+		margin-top: 18px;
+		font-size: 18px;
+	}
+
+	.partners {
+		height: 419px;
+		border-top: none;
+	}
+
+	.partners__link {
+		margin: 0;
+		margin-top: 52px;
+		margin-left: 33px;
+		margin-right: 17px;
+	}
+
+	.info {
+		display: none;
+	
+	}
+
+	main {
+		height: 1207px;
+		-webkit-box-shadow: 0px 91px 40px -97px rgba(0,0,0,0.75);
+	    -moz-box-shadow: 0px 91px 40px -97px rgba(0,0,0,0.75);
+	    box-shadow: 0px 91px 40px -97px rgba(0,0,0,0.75);
+	    position: relative;
+	}
+
+	.footer__menu {
+		display: none;
+		float: none;
+	}
+
+	.footer__designed {
+		margin-top: 0;
+	}
+
+	.footer__author {
+		font-size: 14px;
+	}
+
+	.footer__text {
+		display: inline-block;
+		margin-top: 42px;
+		margin-left: 41px;
+	}
+
+
+
+
+
+
+
